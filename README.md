@@ -10,3 +10,5 @@
 
 - [How Stuff Works - The
   Internet](http://computer.howstuffworks.com/internet/basics/internet.htm)
+
+<a href='https://learn.co/lessons/how-the-web-works' data-visibility='hidden'>View this lesson on Learn.co</a>
