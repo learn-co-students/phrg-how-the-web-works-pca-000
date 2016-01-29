@@ -11,4 +11,4 @@
 - [How Stuff Works - The
   Internet](http://computer.howstuffworks.com/internet/basics/internet.htm)
 
-<a href='https://learn.co/lessons/how-the-web-works' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/how-the-web-works' title='How The Web Works ~ 9min'>How The Web Works ~ 9min</a> on Learn.co and start learning to code for free.</p>
